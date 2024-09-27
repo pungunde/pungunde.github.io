@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pungunde.github.io/sitemap.pungunde.gz
+Sitemap: https://pungunde.github.io/app/sitemap.pungunde.gz
+Sitemap: https://pungunde.github.io/assets/sitemap.pungunde.gz
+Sitemap: https://pungunde.github.io/css/sitemap.pungunde.gz
+Sitemap: https://pungunde.github.io/data/sitemap.pungunde.gz
+Sitemap: https://pungunde.github.io/includes/sitemap.pungunde.gz
+Sitemap: https://pungunde.github.io/item/sitemap.pungunde.gz
+Sitemap: https://pungunde.github.io/src/sitemap.pungunde.gz
